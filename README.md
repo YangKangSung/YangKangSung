@@ -19,7 +19,7 @@
 
 | Project | What |
 |---------|------|
-| **[kampff-skills](https://github.com/YangKangSung/kampff-skills)** | Agent skill — worldview fit, alliance, ephemeris, distance from posts & comments. `spectrograph` 7-layer protocol. |
+| **[kampff-skills](https://github.com/YangKangSung/kampff-skills)** | Agent skill — worldview fit, alliance, ephemeris, distance. [Sample dossier](https://github.com/YangKangSung/kampff-skills/blob/main/docs/sample-output.md) |
 | **agent-skills** | Grok / Hermes skill packs — docs, xlsx, graphify, and more. |
 
 ```text
