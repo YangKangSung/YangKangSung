@@ -61,6 +61,7 @@ If **kampff** is useful, a ⭐ on [kampff-skills](https://github.com/YangKangSun
 ## Elsewhere
 
 - **Flagship:** [kampff-skills](https://github.com/YangKangSung/kampff-skills)
+- **Sponsor:** [github.com/sponsors/YangKangSung](https://github.com/sponsors/YangKangSung)
 - **Issues / ideas:** [kampff-skills/issues](https://github.com/YangKangSung/kampff-skills/issues)
 
 <br/>
