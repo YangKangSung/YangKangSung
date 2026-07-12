@@ -1,73 +1,23 @@
-<div align="center">
+# ksyang · YangKangSung
 
-### Hi, I'm **ksyang** · `YangKangSung`
+**Systems engineer → agent skills → Physical AI**
 
-**Agent skills · human signal from text · shipping in public**
+Independent open source for **Grok · Claude · Hermes** — skills and protocols that keep context without vendor lock-in.
 
-*graphify turns code into graphs. **Kampff** turns text into human spectra.*
+## Featured
 
-<br/>
-
-[![Profile views](https://komarev.com/ghpvc/?username=YangKangSung&color=3d5a80&style=flat-square)](https://github.com/YangKangSung)
-[![GitHub followers](https://img.shields.io/github/followers/YangKangSung?style=flat-square&label=followers&color=3d5a80)](https://github.com/YangKangSung?tab=followers)
-
-</div>
-
----
-
-## Building now
-
-| Project | What |
-|---------|------|
-| **[kampff-skills](https://github.com/YangKangSung/kampff-skills)** | Agent skill — worldview fit, alliance, ephemeris, distance. [Sample dossier](https://github.com/YangKangSung/kampff-skills/blob/main/docs/sample-output.md) |
-| **agent-skills** | Grok / Hermes skill packs — docs, xlsx, graphify, and more. |
-
-```text
-/kampff today          → daily inbox → human dossier
-/kampff analyze bundle → board + you, evidence-quoted
-```
-
-If **kampff** is useful, a ⭐ on [kampff-skills](https://github.com/YangKangSung/kampff-skills) unlocks the next module.
-
----
+| | |
+|--|--|
+| **[kampff-skills](https://github.com/YangKangSung/kampff-skills)** | Human spectrum analysis from text — **spectrograph** 7-layer protocol |
+| **[GitHub Sponsors](https://github.com/sponsors/YangKangSung)** | Fund independent OSS (Kampff roadmap, docs, demos) |
 
 ## Focus
 
-`agent-skills` · `SKILL.md` · `spectrograph` · collectors · Flutter · Windows
+- Agent `SKILL.md` kits & multi-harness sync
+- Local-first memory / LLM Wiki patterns
+- Long-term: **Physical AI** (embodied intelligence)
 
-<p>
-  <img src="https://img.shields.io/badge/Agent_Skills-SKILL.md-111?style=flat-square" alt="Agent Skills" />
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Dart-Flutter-02569B?style=flat-square&logo=dart&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/AI_Agents-Grok_·_Claude_·_Hermes-5c4ee5?style=flat-square" alt="AI Agents" />
-</p>
+> *Kampff profiles everyone on the board — including you.*
 
 ---
-
-## GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YangKangSung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangKangSung&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YangKangSung&theme=tokyonight&hide_border=true" alt="streak" />
-
-</div>
-
----
-
-## Elsewhere
-
-- **Flagship:** [kampff-skills](https://github.com/YangKangSung/kampff-skills)
-- **Sponsor:** [github.com/sponsors/YangKangSung](https://github.com/sponsors/YangKangSung)
-- **Issues / ideas:** [kampff-skills/issues](https://github.com/YangKangSung/kampff-skills/issues)
-
-<br/>
-
-<div align="center">
-
-*Building tools that read patterns, not souls — evidence over vibes.*
-
-</div>
+MIT · Asia/Seoul · [sponsors](https://github.com/sponsors/YangKangSung)
